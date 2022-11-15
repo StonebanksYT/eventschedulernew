@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>886004147666-kgeqh3s0fki7jl2j2un2uh5dfikr207o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.886004147666-kgeqh3s0fki7jl2j2un2uh5dfikr207o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8shNDdO5UJUDCAhLJsHBj7go1v-hQHwY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>886004147666</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.schedulerApp</string>
+	<key>PROJECT_ID</key>
+	<string>eventscheduler-b0e23</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eventscheduler-b0e23.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:886004147666:ios:f866f72f6cbc6a9404140b</string>
+	<key>DATABASE_URL</key>
+	<string>https://eventscheduler-b0e23-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
